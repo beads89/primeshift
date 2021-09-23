@@ -1,0 +1,16 @@
+C:\Users\Brand\Desktop\Epicodus\week8\PrimeShift.Solution\PrimeShift\obj\Debug\net5.0\PrimeShift.csprojAssemblyReference.cache
+C:\Users\Brand\Desktop\Epicodus\week8\PrimeShift.Solution\PrimeShift\obj\Debug\net5.0\PrimeShift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brand\Desktop\Epicodus\week8\PrimeShift.Solution\PrimeShift\obj\Debug\net5.0\PrimeShift.AssemblyInfoInputs.cache
+C:\Users\Brand\Desktop\Epicodus\week8\PrimeShift.Solution\PrimeShift\obj\Debug\net5.0\PrimeShift.AssemblyInfo.cs
+C:\Users\Brand\Desktop\Epicodus\week8\PrimeShift.Solution\PrimeShift\obj\Debug\net5.0\PrimeShift.csproj.CoreCompileInputs.cache
+C:\Users\Brand\Desktop\Epicodus\week8\PrimeShift.Solution\PrimeShift\bin\Debug\net5.0\PrimeShift.deps.json
+C:\Users\Brand\Desktop\Epicodus\week8\PrimeShift.Solution\PrimeShift\bin\Debug\net5.0\PrimeShift.dll
+C:\Users\Brand\Desktop\Epicodus\week8\PrimeShift.Solution\PrimeShift\bin\Debug\net5.0\ref\PrimeShift.dll
+C:\Users\Brand\Desktop\Epicodus\week8\PrimeShift.Solution\PrimeShift\bin\Debug\net5.0\PrimeShift.pdb
+C:\Users\Brand\Desktop\Epicodus\week8\PrimeShift.Solution\PrimeShift\obj\Debug\net5.0\PrimeShift.dll
+C:\Users\Brand\Desktop\Epicodus\week8\PrimeShift.Solution\PrimeShift\obj\Debug\net5.0\ref\PrimeShift.dll
+C:\Users\Brand\Desktop\Epicodus\week8\PrimeShift.Solution\PrimeShift\obj\Debug\net5.0\PrimeShift.pdb
+C:\Users\Brand\Desktop\Epicodus\week8\PrimeShift.Solution\PrimeShift\bin\Debug\net5.0\PrimeShift.exe
+C:\Users\Brand\Desktop\Epicodus\week8\PrimeShift.Solution\PrimeShift\bin\Debug\net5.0\PrimeShift.runtimeconfig.json
+C:\Users\Brand\Desktop\Epicodus\week8\PrimeShift.Solution\PrimeShift\bin\Debug\net5.0\PrimeShift.runtimeconfig.dev.json
+C:\Users\Brand\Desktop\Epicodus\week8\PrimeShift.Solution\PrimeShift\obj\Debug\net5.0\PrimeShift.genruntimeconfig.cache
